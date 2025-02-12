@@ -40,5 +40,18 @@
         <img alt="Issues" src="https://img.shields.io/github/issues/AnaBelenBarbero/detect-prompt-injection?style=flat-square&labelColor=343b41"/>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/AnaBelenBarbero/ai-wise-council" target="_blank">
+          👩‍⚖️ <b>LLM as a judge</b>
+        </a>
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/AnaBelenBarbero/ai-wise-council?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/AnaBelenBarbero/ai-wise-council?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
   </tbody>
 </table>

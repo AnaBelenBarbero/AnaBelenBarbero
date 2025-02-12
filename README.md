@@ -29,6 +29,19 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/AnaBelenBarbero/contrasto_ai" target="_blank">
+          🦚 <b>The open-source AI Governance platform</b>
+        </a>
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/AnaBelenBarbero/contrasto_ai?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/AnaBelenBarbero/contrasto_ai?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/AnaBelenBarbero/detect-prompt-injection" target="_blank">
           💉 <b>The go-to API for detecting and preventing prompt injection attacks</b>
         </a>

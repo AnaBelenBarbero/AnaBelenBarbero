@@ -27,6 +27,19 @@
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>
+        <a href="https://github.com/AnaBelenBarbero/OW-AI-cyber-bio-actions-eval" target="_blank">
+          🛡️ <b>Actions speak louder than words</b>
+        </a>
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/AnaBelenBarbero/OW-AI-cyber-bio-actions-eval?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/AnaBelenBarbero/OW-AI-cyber-bio-actions-eval?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/AnaBelenBarbero/contrasto_ai" target="_blank">
